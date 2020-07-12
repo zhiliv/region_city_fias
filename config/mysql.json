@@ -1,0 +1,9 @@
+{
+  "host": "127.0.0.1",
+  "user": "root",
+  "port": "3306",
+  "password": "roots",
+  "database": "fias",
+  "charset": "utf8",
+  "dialect": "mysql"
+}

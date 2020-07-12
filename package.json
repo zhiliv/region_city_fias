@@ -1,0 +1,17 @@
+{
+  "name": "region_city_fias",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zhiliv/region_city_fias",
+  "author": "Ivan Zhilnikov <i.zhilnikov@bars.group>",
+  "license": "MIT",
+  "dependencies": {
+    "big-xml": "^1.0.0",
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.3.3",
+    "xml-js": "^1.6.11"
+  },
+  "scripts": {
+    "start": "node --inspect app.js "
+  }
+}
